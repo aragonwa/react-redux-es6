@@ -1,3 +1,4 @@
+/* eslint-disable import/default */
 import 'babel-polyfill'; // Use this for stuff like fetch
 import React from 'react';
 import {render} from 'react-dom';
